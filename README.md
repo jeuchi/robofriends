@@ -1,14 +1,13 @@
 
-## Author ✏️
+## Authors ✏️
 
--    **Jeremy Euchi**  -  [https://github.com/jeuchi](https://github.com/jeuchi)
--  **Andrei Neagoie** - [https://github.com/aneagoie](https://github.com/aneagoie)
+-    [**Jeremy Euchi**](https://github.com/jeuchi)
+-  [**Andrei Neagoie**](https://github.com/aneagoie)
 
 ## Features 🎤
 
 ✅ React.js and Redux\
 ✅ One Page Layout with dynamic rendering and JSON fetching \
-✅ Login and Register validation with encrypted hashing
 
 To view a live example, **[click here](https://jeuchi.github.io/robofriends)**
 
